@@ -1,0 +1,38 @@
+# this is a comment
+
+name: Paul
+
+names: #Comment
+  - Paul
+  - PK
+  - George
+
+pound_sign: "#"
+
+book:
+  author: Paul Parc
+  publisher: random house
+
+
+truth: yes
+
+another_truth: True
+
+more_true: true
+
+false: no #No, false, FALSE
+
+string_val: "This is it's quote"
+
+colon_string: "my course: one two three"
+
+include_new_lines: |
+  wewe wewew wewewe
+   wewe wewe wewewe
+   wew wewe wewe
+
+
+ignore_new_line: >
+  this is
+  just one long
+  string
